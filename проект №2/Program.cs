@@ -230,6 +230,7 @@ namespace проект__2
             Console.WriteLine($"{Mitrofan.name} получил {Mitrofan.Grandpa(Mitrofan_phrases)} фингалов от бабки");
             Console.WriteLine($"{Mitrofan.name} получил {Vyacheslav.Grandpa(Vyacheslav_phrases)} фингалов от бабки");
             Console.WriteLine($"{Vyacheslav.name} получил {Arcadiy.Grandpa(Arcadiy_phrases)} фингалов от бабки");
+            Console.WriteLine("Для того чтобы закрыть программу, нажмите на любую клавишу");
             Console.ReadKey();
 
 
